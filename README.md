@@ -65,7 +65,3 @@ Generated using the seed prompt: `"Aelin Galathynius stood before the "` (top-$k
    Open `text_generation_lstm_vs_gru.ipynb` in Jupyter, Google Colab, or VS Code.
 
 ---
-
-## 👤 Author
-- **Noelia** - Final-year Cybersecurity & AI Student at Universidad de Málaga (UMA).
-- GitHub: [@noeliamate](https://github.com/noeliamate)

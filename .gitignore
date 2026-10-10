@@ -1,0 +1,14 @@
+# Model weights & Checkpoints
+*.net
+*.pt
+*.pth
+
+# Dataset
+*.txt
+*.epub
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
